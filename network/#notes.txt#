@@ -29,3 +29,6 @@
 07:Querying a server is somewhat like interogating a server asking it if its on or off by sending users query through googles external serverl. MAN DIG.
 
 08: AWS is amazon webhostin services. They are All DNS.
+
+09: An ip address has too parts, one identifying the the address and one identifying the node or host.
+  : The address class is what determines which part belongs to thh given network address and whcih part determiens the node address.
