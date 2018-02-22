@@ -1,0 +1,16 @@
+01: Debian is a free operating system that a group of individuals came togethor to create!
+  : Debian systems currently use the Linux kernel or the FreeBSD kernel.
+
+02: MORE BS.
+
+03: MORE BS.
+
+04: Who displays who was last logged in.
+  : -b option shows time of last system boot!
+
+05: Service is a file in your /ect/! It contains information regarding the known services available in the DARPA internet! DARPA aka (Defense Advanced Research Projects Agency).
+  : SSH aka (Secure Shell), uses port 22 to allow your computer to connect to another computer throught the internet! crazyyyyy stuff. 
+
+06: MORE BS.
+
+07:
