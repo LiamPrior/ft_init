@@ -1,0 +1,1 @@
+The Serveer type to the IP addres 10.51.1.253 is dhcp. I used hsot -d to do that but i also could have used hostname -IP f we were permitted to do so!
