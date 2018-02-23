@@ -13,4 +13,50 @@
 
 06: MORE BS.
 
-07:
+07: A PID aka (process identification number) is an identification number that is automatically assigned to a process in a unix-like operating systemm.
+  : The PS displays information about all your information about all of your processes that have controlling terminals!
+  : aux is made up of a u and x options that come with the ps command!
+  : -a displays information about other users! processes as well as your own! Any process without a controlling terminal is skipped.
+  : -u displays the processes belonging to the specific usernames.
+  : -x displays processes that do not have controlling terminals. The opposite of -X.
+  
+08: RSA key is a private key based on the RSA algorithum. These keys are used for authentication and a symetric key exchange during establishment of an SSL/TLS session.
+  : TSL (Transport Layer Security)
+  : SSL (Secure Sockets Layer)
+  : Both are public key cryptographys that the Schannel authentication protocol suite provides thes protocols.
+
+09: w displays who is logged in and what they are doing.
+
+10: A partition table is a 64-BYTE data structure that proviedes info about ones computer operating system and about the the devision of harddrives.
+  : fdisk is a partition maintence program.
+  : -l is for listing.
+
+11: df displays free disk space. Has many options.
+
+12: du displays the disk usage statistics.
+  : -c is grand total.
+
+13: top display and update sorted
+
+14: & operator runs proceses in the background
+
+15: pkill funds or signals processes by name.
+  : Searches the process table on the running system and signals all process that match criteria given on the command line.
+
+16: Cron is a daemon to execute scheduled commands.
+  : Its launched when it sees the existence of a crontab (/ect/crontab)file.
+  : Once launched it searches through /usr/lib/cron/tabs for crontab files which are named after accounts in /etc/passwd;
+  : It then wakese up every minute to examine all stored crontabs to see if it should run in hte current minute.
+  : lastly cron wakes up every minute to see if its spool directorys modification time has changed.
+  : Crontab is the program used to install, remove or list the tables used to drive the cron(8) daemon.
+
+17: iptables are a user-space utility program that allows a system administrator to configure the tables provideed by the linux kernal firewall!
+  : -L is to list all rules in the selected chain.
+
+18: -A is a chainrule specification for appending.
+  : -s Source address specification. Address can be either a network name, a hostname, a network IP address (with /mask), or a plain IP address. 
+  : -j - Jump to the specified target. By default, iptables allows four targets: ACCEPT, REJECT, DROP, LOG.
+  : ACCEPT - Accept the packet and stop processing rules in this chain.
+
+19: -P (--policy chain target) sets a policy. The policy is to drop everything but the source address.
+  : DROP - Silently ignore the packet, and stop processing rules in this chain.
