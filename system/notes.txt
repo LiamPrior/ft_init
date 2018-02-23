@@ -39,6 +39,8 @@
 13: top display and update sorted
 
 14: & operator runs proceses in the background
+  : TAIL displays the contents of the file.
+  : -f couses the fail to not stop at the end of the file is reached.
 
 15: pkill funds or signals processes by name.
   : Searches the process table on the running system and signals all process that match criteria given on the command line.
