@@ -40,6 +40,8 @@
   : ICMB (Internet Control Message Protocol) is used by network devices to send error messages and operational information.
   : -v is for verbose output. Everything besides TIME_EXCEEDED adn UNREACHABLES are listed.
 
+11: NAT (Network address translation) is a method of remapping one IP address space into another by modifying network address information in IP header of packets while they are in transit across a traffic routing device.
+
 12: Ping is to send ICMP ECHO_REQUESTS packetes to a networks host!
 
 13: More BS.
